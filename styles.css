@@ -283,6 +283,9 @@ footer p {
     color: rgb(136, 136, 235);
     font-size: 16pt;
 }
+#service-footer{
+    position: relative;
+}
 
 
 
